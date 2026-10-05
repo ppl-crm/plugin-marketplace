@@ -631,9 +631,9 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ppl-crm/ppl-grok-plugin.git",
-        "sha": "b2c651832dee070727b8a890dcd47580ef865f32"
+        "sha": "d60db65c809767c39dadab6957421f90b1657b38"
       },
-      "homepage": "https://ppl.gift/agents",
+      "homepage": "https://withppl.com/agents",
       "keywords": [
         "ppl",
         "ppl crm",
@@ -642,7 +642,7 @@
         "contact management"
       ],
       "domains": [
-        "ppl.gift"
+        "withppl.com"
       ]
     }
   ]
