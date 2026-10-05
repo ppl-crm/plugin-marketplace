@@ -633,6 +633,23 @@
         ]
       }
     },
+    "ppl": {
+      "sha": "b2c651832dee070727b8a890dcd47580ef865f32",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "ppl",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "ppl"
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "c47b12849e43f18d5c374c7069c744cc55b0ea00",
       "components": {
